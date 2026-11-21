@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="進行フロー" id="cdVvjm4XsJHpG6Y9dn7G">
+    <mxGraphModel dx="740" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="740" pageHeight="1160" math="0" shadow="0" background="#ffffff" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" vertex="1" value="&lt;div style=&quot;font-size:25px;color:#2b1b20;font-weight:700;line-height:1.32;&quot;&gt;朝が来るまで｜進行フロー&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=none;strokeColor=none;fontColor=#2b1b20;strokeWidth=1;">
+          <mxGeometry x="25" y="22" width="690" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="move-in" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;入居・大家と話す&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;大家の部屋番号を聞く&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#a20025;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="115" y="76" width="510" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="explore-1" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;探索①　金木犀（重要残置物A）&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;通常の残置物 約3個／大家が1〜2回来訪&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;金木犀の発見後はそのまま次の探索へ&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#a20025;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="115" y="159" width="510" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="explore-2" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;探索②　賃貸契約書（重要残置物B）&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;通常の残置物 約2個&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;契約書の取得後、別室でドアが不定期に閉まる&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#a20025;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="115" y="263" width="510" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="visit" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#641a2b;font-weight:700;line-height:1.32;&quot;&gt;大家が1回来訪する&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#682736;font-weight:400;line-height:1.32;&quot;&gt;「何かあったら○○号室まで来てね」（部屋番号は赤字）&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#fdf0f3;strokeColor=#cc8b9b;fontColor=#641a2b;strokeWidth=1;">
+          <mxGeometry x="115" y="367" width="510" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="explore-3" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;探索③　メモリカード（重要残置物C）&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;通常の残置物 約1個／カードはトイレのタンクにある&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#a20025;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="115" y="451" width="510" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="reveal" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#641a2b;font-weight:700;line-height:1.32;&quot;&gt;PCの写真で大家が犯人だと気づく&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#682736;font-weight:400;line-height:1.32;&quot;&gt;BGMと部屋の雰囲気が大きく変わる&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#fdf0f3;strokeColor=#cc8b9b;fontColor=#641a2b;strokeWidth=1;">
+          <mxGeometry x="115" y="535" width="510" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="escape" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;玄関からの脱出を断念する&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;玄関の前に大家がいる&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#a20025;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="115" y="619" width="510" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="wait" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;朝まで待つ&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;タイマーが朝に達するまで探索できる&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;通常の残置物 1〜3個／ヒトコワ系の演出が中心&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#a20025;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="115" y="703" width="510" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="sunrise" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#641a2b;font-weight:700;line-height:1.32;&quot;&gt;朝になり、玄関から外へ出る&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#682736;font-weight:400;line-height:1.32;&quot;&gt;玄関の前から大家がいなくなる&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#fdf0f3;strokeColor=#cc8b9b;fontColor=#641a2b;strokeWidth=1;">
+          <mxGeometry x="115" y="807" width="510" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ending-branch" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#641a2b;font-weight:700;line-height:1.32;&quot;&gt;残置物の回収率で分岐&lt;/div&gt;&lt;div style=&quot;font-size:13px;color:#682736;font-weight:400;line-height:1.32;&quot;&gt;True Endは90％前後が目安&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#fff8fa;strokeColor=#a20025;fontColor=#641a2b;strokeWidth=1;">
+          <mxGeometry x="217" y="891" width="306" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="bad" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;Bad End&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;開始時と同じタイトル背景&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#75102b;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="91" y="1008" width="230" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="true" parent="1" vertex="1" value="&lt;div style=&quot;font-size:17px;color:#ffffff;font-weight:700;line-height:1.32;&quot;&gt;True End&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#fff2f4;font-weight:400;line-height:1.32;&quot;&gt;タイトル背景が変化&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=#75102b;strokeColor=#6f0000;fontColor=#ffffff;strokeWidth=1;">
+          <mxGeometry x="419" y="1008" width="230" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ending-note" parent="1" vertex="1" value="&lt;div style=&quot;font-size:15px;color:#502634;font-weight:700;line-height:1.32;&quot;&gt;両エンドとも、フェードアウトして時間をかけてタイトルへ&lt;/div&gt;&lt;div style=&quot;font-size:14px;color:#643e49;font-weight:400;line-height:1.32;&quot;&gt;脱出の成否とその後はプレイヤーの想像に委ねる&lt;/div&gt;" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Yu Gothic;fillColor=none;strokeColor=none;fontColor=#502634;strokeWidth=1;">
+          <mxGeometry x="40" y="1093" width="660" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="move-in-to-explore-1" edge="1" parent="1" source="move-in" target="explore-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="explore-1-to-explore-2" edge="1" parent="1" source="explore-1" target="explore-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="explore-2-to-visit" edge="1" parent="1" source="explore-2" target="visit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="visit-to-explore-3" edge="1" parent="1" source="visit" target="explore-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="explore-3-to-reveal" edge="1" parent="1" source="explore-3" target="reveal" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="reveal-to-escape" edge="1" parent="1" source="reveal" target="escape" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="escape-to-wait" edge="1" parent="1" source="escape" target="wait" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="wait-to-sunrise" edge="1" parent="1" source="wait" target="sunrise" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="sunrise-to-ending-branch" edge="1" parent="1" source="sunrise" target="ending-branch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"></mxGeometry>
+        </mxCell>
+        <mxCell id="ending-branch-to-bad" edge="1" parent="1" source="ending-branch" target="bad" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=0;exitY=0.5;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="206" y="935" /></Array></mxGeometry>
+        </mxCell>
+        <mxCell id="ending-branch-to-true" edge="1" parent="1" source="ending-branch" target="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#58434a;strokeWidth=1.5;exitX=1;exitY=0.5;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="534" y="935" /></Array></mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

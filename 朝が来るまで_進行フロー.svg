@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="1160" viewBox="0 0 740 1160" role="img" aria-labelledby="title description">
+  <title id="title">朝が来るまで｜進行フロー</title>
+  <desc id="description">入居後の探索、玄関での脱出断念、朝までの待機、残置物の回収率による2つの結末を示す。</desc>
+  <defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto"><path d="M 0 0 L 7 3.5 L 0 7 z" fill="#58434a" /></marker></defs>
+  <rect x="0.5" y="0.5" width="739" height="1159" fill="#ffffff" stroke="#e6d9dd" />
+  <path d="M 370 137 L 370 159" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 241 L 370 263" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 345 L 370 367" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 429 L 370 451" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 513 L 370 535" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 597 L 370 619" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 681 L 370 703" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 785 L 370 807" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 370 869 L 370 891" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 217 935 H 206 V 1008" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <path d="M 523 935 H 534 V 1008" fill="none" stroke="#58434a" stroke-width="1.5" marker-end="url(#arrow)" />
+  <g font-family="Yu Gothic, Meiryo, sans-serif" text-anchor="middle">
+    <g>
+      <text x="370" y="49.25" font-size="25" font-weight="700" fill="#2b1b20">朝が来るまで｜進行フロー</text>
+    </g>
+    <g>
+      <rect x="115" y="76" width="510" height="61" fill="#a20025" stroke="#6f0000"/>
+      <text x="370" y="102.77" font-size="17" font-weight="700" fill="#ffffff">入居・大家と話す</text>
+      <text x="370" y="120.77" font-size="14" font-weight="400" fill="#fff2f4">大家の部屋番号を聞く</text>
+    </g>
+    <g>
+      <rect x="115" y="159" width="510" height="82" fill="#a20025" stroke="#6f0000"/>
+      <text x="370" y="187.27" font-size="17" font-weight="700" fill="#ffffff">探索①　金木犀（重要残置物A）</text>
+      <text x="370" y="205.27" font-size="14" font-weight="400" fill="#fff2f4">通常の残置物 約3個／大家が1〜2回来訪</text>
+      <text x="370" y="223.27" font-size="14" font-weight="400" fill="#fff2f4">金木犀の発見後はそのまま次の探索へ</text>
+    </g>
+    <g>
+      <rect x="115" y="263" width="510" height="82" fill="#a20025" stroke="#6f0000"/>
+      <text x="370" y="291.27" font-size="17" font-weight="700" fill="#ffffff">探索②　賃貸契約書（重要残置物B）</text>
+      <text x="370" y="309.27" font-size="14" font-weight="400" fill="#fff2f4">通常の残置物 約2個</text>
+      <text x="370" y="327.27" font-size="14" font-weight="400" fill="#fff2f4">契約書の取得後、別室でドアが不定期に閉まる</text>
+    </g>
+    <g>
+      <rect x="115" y="367" width="510" height="62" fill="#fdf0f3" stroke="#cc8b9b"/>
+      <text x="370" y="394.27" font-size="17" font-weight="700" fill="#641a2b">大家が1回来訪する</text>
+      <text x="370" y="412.27" font-size="14" font-weight="400" fill="#682736">「何かあったら○○号室まで来てね」（部屋番号は赤字）</text>
+    </g>
+    <g>
+      <rect x="115" y="451" width="510" height="62" fill="#a20025" stroke="#6f0000"/>
+      <text x="370" y="478.27" font-size="17" font-weight="700" fill="#ffffff">探索③　メモリカード（重要残置物C）</text>
+      <text x="370" y="496.27" font-size="14" font-weight="400" fill="#fff2f4">通常の残置物 約1個／カードはトイレのタンクにある</text>
+    </g>
+    <g>
+      <rect x="115" y="535" width="510" height="62" fill="#fdf0f3" stroke="#cc8b9b"/>
+      <text x="370" y="562.27" font-size="17" font-weight="700" fill="#641a2b">PCの写真で大家が犯人だと気づく</text>
+      <text x="370" y="580.27" font-size="14" font-weight="400" fill="#682736">BGMと部屋の雰囲気が大きく変わる</text>
+    </g>
+    <g>
+      <rect x="115" y="619" width="510" height="62" fill="#a20025" stroke="#6f0000"/>
+      <text x="370" y="646.27" font-size="17" font-weight="700" fill="#ffffff">玄関からの脱出を断念する</text>
+      <text x="370" y="664.27" font-size="14" font-weight="400" fill="#fff2f4">玄関の前に大家がいる</text>
+    </g>
+    <g>
+      <rect x="115" y="703" width="510" height="82" fill="#a20025" stroke="#6f0000"/>
+      <text x="370" y="731.27" font-size="17" font-weight="700" fill="#ffffff">朝まで待つ</text>
+      <text x="370" y="749.27" font-size="14" font-weight="400" fill="#fff2f4">タイマーが朝に達するまで探索できる</text>
+      <text x="370" y="767.27" font-size="14" font-weight="400" fill="#fff2f4">通常の残置物 1〜3個／ヒトコワ系の演出が中心</text>
+    </g>
+    <g>
+      <rect x="115" y="807" width="510" height="62" fill="#fdf0f3" stroke="#cc8b9b"/>
+      <text x="370" y="834.27" font-size="17" font-weight="700" fill="#641a2b">朝になり、玄関から外へ出る</text>
+      <text x="370" y="852.27" font-size="14" font-weight="400" fill="#682736">玄関の前から大家がいなくなる</text>
+    </g>
+    <g>
+      <polygon points="370,891 523,935 370,979 217,935" fill="#fff8fa" stroke="#a20025"/>
+      <text x="370" y="931.27" font-size="17" font-weight="700" fill="#641a2b">残置物の回収率で分岐</text>
+      <text x="370" y="949.27" font-size="13" font-weight="400" fill="#682736">True Endは90％前後が目安</text>
+    </g>
+    <g>
+      <rect x="91" y="1008" width="230" height="65" fill="#75102b" stroke="#6f0000"/>
+      <text x="206" y="1036.77" font-size="17" font-weight="700" fill="#ffffff">Bad End</text>
+      <text x="206" y="1054.77" font-size="14" font-weight="400" fill="#fff2f4">開始時と同じタイトル背景</text>
+    </g>
+    <g>
+      <rect x="419" y="1008" width="230" height="65" fill="#75102b" stroke="#6f0000"/>
+      <text x="534" y="1036.77" font-size="17" font-weight="700" fill="#ffffff">True End</text>
+      <text x="534" y="1054.77" font-size="14" font-weight="400" fill="#fff2f4">タイトル背景が変化</text>
+    </g>
+    <g>
+      <text x="370" y="1112.15" font-size="15" font-weight="700" fill="#502634">両エンドとも、フェードアウトして時間をかけてタイトルへ</text>
+      <text x="370" y="1130.15" font-size="14" font-weight="400" fill="#643e49">脱出の成否とその後はプレイヤーの想像に委ねる</text>
+    </g>
+  </g>
+</svg>

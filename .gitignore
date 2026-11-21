@@ -1,0 +1,11 @@
+# Local Obsidian vault settings
+/.obsidian/
+/.trash/
+
+# Exported PDFs
+/output/pdf/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
